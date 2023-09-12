@@ -16,5 +16,9 @@ public class PwdSecurityService {
 		return "Good Morning";
 	}
 	
+     // fixing bug -122
 
+	 public String welcome(){
+		return "Welcome";
+	 }
 }
