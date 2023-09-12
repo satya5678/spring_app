@@ -11,14 +11,4 @@ public class PwdSecurityService {
 		return encodeToString;
 	}
 
-   // fixing bug -123
-	public String greet(){
-		return "Good Morning";
-	}
-	
-     // fixing bug -122
-
-	 public String welcome(){
-		return "Welcome";
-	 }
 }
