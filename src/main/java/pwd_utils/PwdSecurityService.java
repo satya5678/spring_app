@@ -10,6 +10,11 @@ public class PwdSecurityService {
 		String encodeToString = encoder.encodeToString(text.getBytes());
 		return encodeToString;
 	}
+
+   // fixing bug -123
+	public String greet(){
+		return "Good Morning";
+	}
 	
 
 }
