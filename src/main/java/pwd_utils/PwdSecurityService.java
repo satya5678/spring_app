@@ -11,4 +11,12 @@ public class PwdSecurityService {
 		return encodeToString;
 	}
 
+
+
+	// fixing bug-122
+	public String greet(){
+
+		// bug fixing completed
+	}
+
 }
