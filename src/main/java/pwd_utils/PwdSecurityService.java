@@ -13,6 +13,8 @@ public class PwdSecurityService {
 
 
 
+
+
 	// fixing bug-122
 	public String greet(){
 
@@ -27,13 +29,20 @@ public class PwdSecurityService {
  }
 
 
-
-
 // fixing bud-132
 
 public String m2(){
 	// logic
 }
+
+
+
+
+// fixing  bug - 131
+ public String m1(){
+	// logic 
+ }
+
 
 
 
