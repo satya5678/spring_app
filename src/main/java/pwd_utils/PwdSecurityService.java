@@ -12,11 +12,4 @@ public class PwdSecurityService {
 	}
 
 
-
-	// fixing bug-122
-	public String greet(){
-
-		// bug fixing completed
-	}
-
 }
